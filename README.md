@@ -35,5 +35,13 @@ PRESS , to turn on/off point of camera focus
 
 PRESS `[` or `]` to increase/decrease autozoom 
 
+## Demo
+
+
+
+https://user-images.githubusercontent.com/79232961/119075059-232cde80-b9be-11eb-99ba-a6a97de2d3c5.mov
+
+
+
 
 
