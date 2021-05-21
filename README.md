@@ -35,7 +35,7 @@ PRESS `[` or `]` to increase/decrease autozoom
 
 
 
-There are two demo videos. The demo video with the red tree is there to demonstrate the camera commands. The green tree is a demonstration of the program after making the program procedurally generate the tree while the red tree is when the program did not have the feature to procedurally generate the tree adn so, the following commands were used to generate the tree manually: Space to play/pause and . to generate new branches. To make the program procedurally generate the tree, the use of timercpp.h (open source) was used which causes the program to lag a lot. Because of this, using the camera commands with the program that procedurally generates the tree is difficult. 
+There are two demo videos. The demo video with the red tree is there to demonstrate the camera commands. The green tree is a demonstration of the program after making the program procedurally generate the tree while the red tree is when the program did not have the feature to procedurally generate the tree, and so, the following commands were used to generate the tree manually: Space to play/pause and . to generate new branches. To make the program procedurally generate the tree, the use of timercpp.h (open source) was used which causes the program to lag a lot. Because of this, using the camera commands with the program that procedurally generates the tree is difficult. 
 
 
 https://user-images.githubusercontent.com/79232961/119075700-3be9c400-b9bf-11eb-90b8-312b3a30f0d9.mov
