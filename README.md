@@ -10,7 +10,7 @@ For the final project, I will be creating a procedurally generated cherry blosso
 When using this program in a windows computer, input the following command inside the terminal after entering the project directory: g++ branch.cpp -o branch -lopengl32 -lglew32 -lfreeglut -lglu32 -pthread -fconcepts
 This command is also present in the "Build CMD.txt" file.
 
-##Commands:
+## Commands:
 PRESS ESC - quit
 PRESS Space - play/pause
 PRESS . to bud. Init new branches
