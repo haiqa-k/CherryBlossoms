@@ -12,16 +12,28 @@ This command is also present in the "Build CMD.txt" file.
 
 ## Commands:
 PRESS ESC - quit
+
 PRESS Space - play/pause
+
 PRESS . to bud. Init new branches
+
 PRESS x to pan camera in phi
+
 PRESS X to pan camera out phi
+
 PRESS c to pan camera in theta
+
 PRESS C to pan camera out theta
+
 PRESS z to zoom in
+
 PRESS Z to zoom out
+
 PRESS a,A,s,S,d,D to move location of camera focus
+
 PRESS , to turn on/off point of camera focus
+
 PRESS `[` or `]` to increase/decrease autozoom 
+
 
 
