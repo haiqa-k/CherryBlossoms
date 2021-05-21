@@ -47,7 +47,7 @@ https://user-images.githubusercontent.com/79232961/119075713-40ae7800-b9bf-11eb-
 
 ## Other
 
-This program uses recursion to generate a tree. On each iteration there are three branches generated. Each branch is actually a cylinder and unfortunately, it is not being generated from a complex algorithm, but rather, the following function is used: 
+This program uses recursion to generate a tree. On each iteration there are three branches generated. Each branch is actually a cylinder and unfortunately, it is not being generated from a complex algorithm, but rather, a utility library is used and the following function is used: gluCylinder(myCylinder, radius, radius * 0.8, length * 1.1, 20, 200);
 
 
 
