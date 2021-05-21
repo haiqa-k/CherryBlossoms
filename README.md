@@ -4,7 +4,7 @@ For the final project, I will be creating a procedurally generated cherry blosso
 
 
 <img width="389" alt="Screen Shot 2021-05-10 at 10 39 16 PM" src="https://user-images.githubusercontent.com/79232961/117749976-a0976880-b1e0-11eb-9579-1350bda2700b.png">
-<img width="369" alt="Screen Shot 2021-05-10 at 10 39 40 PM" src="https://user-images.githubusercontent.com/79232961/117749981-a2612c00-b1e0-11eb-8610-f0941a438caa.png">
+
 
 
 When using this program in a windows computer, input the following command inside the terminal after entering the project directory: g++ branch.cpp -o branch -lopengl32 -lglew32 -lfreeglut -lglu32 -pthread -fconcepts
