@@ -6,8 +6,10 @@ For the final project, I will be creating a procedurally generated cherry blosso
 <img width="389" alt="Screen Shot 2021-05-10 at 10 39 16 PM" src="https://user-images.githubusercontent.com/79232961/117749976-a0976880-b1e0-11eb-9579-1350bda2700b.png">
 
 
+A new windows user can take help from the following website to set up the environment: https://medium.com/@bhargav.chippada/how-to-setup-opengl-on-mingw-w64-in-windows-10-64-bits-b77f350cea7e
 
 When using this program in a windows computer, input the following command inside the terminal after entering the project directory: g++ branch.cpp -o branch -lopengl32 -lglew32 -lfreeglut -lglu32 -pthread -fconcepts
+
 This command is also present in the "Build CMD.txt" file.
 
 ## Commands:
