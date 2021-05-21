@@ -13,10 +13,6 @@ This command is also present in the "Build CMD.txt" file.
 ## Commands:
 PRESS ESC - quit
 
-PRESS Space - play/pause
-
-PRESS . to bud. Init new branches
-
 PRESS x to pan camera in phi
 
 PRESS X to pan camera out phi
@@ -39,7 +35,14 @@ PRESS `[` or `]` to increase/decrease autozoom
 
 
 
-https://user-images.githubusercontent.com/79232961/119075059-232cde80-b9be-11eb-99ba-a6a97de2d3c5.mov
+There are two demo videos. The demo video with the red tree is there to demonstrate the camera commands. The green tree is a demonstration of the program after making the program procedurally generate the tree while the red tree is when the program did not have the feature to procedurally generate the tree adn so, the following commands were used to generate the tree manually: Space to play/pause and . to generate new branches. To make the program procedurally generate the tree, the use of timercpp.h (open source) was used which causes the program to lag a lot. Because of this, using the camera commands with the program that procedurally generates the tree is difficult. 
+
+
+https://user-images.githubusercontent.com/79232961/119075700-3be9c400-b9bf-11eb-90b8-312b3a30f0d9.mov
+
+
+https://user-images.githubusercontent.com/79232961/119075713-40ae7800-b9bf-11eb-8468-2e0596a1ca00.mp4
+
 
 
 
